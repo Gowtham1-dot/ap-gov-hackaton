@@ -100,9 +100,8 @@ project-root/
 
 ## 👨‍💻 Contact
 
-**Name:** \[Your Name]
-**Email/Phone:** +91 9949578818
-**LinkedIn (Optional):** \[Insert URL]
+**Name:** Gowtham.B
+**Email/Phone:** +91 8341628430
 
 ---
 
